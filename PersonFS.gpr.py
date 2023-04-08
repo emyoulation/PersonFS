@@ -44,7 +44,7 @@ register(GRAMPLET,
 
 register(TOOL,
     id    = 'Importo de FamilySearch',
-    name  = _("Importo de FamilySearch datoj"),
+    name  = _("Importo de FamilySearch datumoj"),
     description =  _("FamilySearch."),
     version = '1.4.1',
     gramps_target_version = '5.1',
